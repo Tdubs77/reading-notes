@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Reading Notes
 
 You can use the [editor on GitHub](https://github.com/TheresaWalters/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Growth Mindset
+*Growth Mindset to me is believing that we are not prisoner to our current mental state in terms of mental capabilities. Overtime we can improve with practice and implementation. According to >Outliers by Malcolm Gladwell it takes 10,000 hours for a human to perfect a skill.> I believe in this truth.*
+## Three Reminders On Keeping a Growth Mindset 
+1. Keeping moving forward
+2. Stress is normal 
+3. ~~Fear~~ is inevitable
