@@ -9,6 +9,6 @@ Hi All, my name is Theresa. I am a project coordinator an an MBA canidate. I enj
 
 ## Three Reminders On Keeping a Growth Mindset 
 
-1. Keeping moving forward
-2. Stress is normal 
-3. ~~Fear~~ is inevitable
+1. Keeping moving forward.
+2. Stress is normal. 
+3. ~~Fear~~ is inevitable. 
