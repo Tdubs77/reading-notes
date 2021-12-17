@@ -25,3 +25,5 @@ Addresses issues with CVS. IF is goes down develops cant work together. DVCS all
 >> Add (what is going to the change -snapshot)
 >> Commit (Reason for doing it because) - save with message (push
 >> Push (upload change list- files into repo)
+ >> 1. Clone (exact copy to your computer (local)
+ >> 2. Pull Update my local
