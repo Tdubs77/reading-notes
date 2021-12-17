@@ -38,3 +38,7 @@ There are many options for text editors that are widely used today:
 1. Atom
 1. Brackets 
 1. Sublime
+
+Index- how to start you visual studio code 
+> Example: index.html, index.js
+> Hello World to start to ensure it works
