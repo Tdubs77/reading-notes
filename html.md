@@ -16,6 +16,6 @@ It gives a basic sketch of how each basic screens will look
 3. Software allows you to keep track of more detailed decisions
 > *Examples*
 > Wireframe > Interactive Prototype > Visual > Design 
-> Sketch > Code
-> Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
-> Sketch > Wireframe > Visual > Code
+> 1. Sketch > Code
+> 1. Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
+> 1. Sketch > Wireframe > Visual > Code
