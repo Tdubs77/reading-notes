@@ -13,3 +13,4 @@
 ## Day 4
  
 ## Streach Goals
+[Streach Goals](https://github.com/TheresaWalters/reading-notes/blob/87974501c2bf09943ef72bc8adb482420a2ee1a2/streachGoals.md)
