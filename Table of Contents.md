@@ -9,6 +9,7 @@
 
 ## Day 3
 [Cheat Sheet](https://github.com/TheresaWalters/reading-notes/blob/93c42b8ff1a77d489550c698110758594727ce6e/cheat-sheet.md)
+[Git](https://github.com/TheresaWalters/reading-notes/blob/064eef4626a08158803565612cb39a925affe0ed/Git.md)
 
 ## Day 4
  
